@@ -1,0 +1,12 @@
+.header {
+    max-width: 1520px;
+    font-family: "Inika", serif;
+}
+
+.header-title {
+    color: #8B7969;
+    padding-bottom: 8px;
+    text-align: center;
+    border-bottom: 1px solid #E0DFDE;
+    font-size: 40px;
+}
